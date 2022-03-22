@@ -117,12 +117,15 @@ Below are the templates that have been created. These are copied with the bash s
 
 3. laboratory variants
 
-The inserted sequences for experimental study can be found under the "experimental-variants.pdf" file.
+The inserted sequences for experimental study can be found under the "experimentelle-Varianten.pdf" file.
 
 4. modeling results
 
-Under "results_modeling.pdf", the modeled albumin and FLS2 variants are shown graphically after the respective steps. Also shown in each case are the original sequence, the mutated sequence and, in tabular view, the inserted mutations.
+Under "Ergebnisse_Modellierung.pdf", the modeled albumin and FLS2 variants are shown graphically after the respective steps. Also shown in each case are the original sequence, the mutated sequence and, in tabular view, the inserted mutations.
 
 5. amino acid migration
 
-In the Excel file "AS-Exchange.xlsx", the mutations of each final variant created, both albumin and FLS2 variants, are shown. In addition, the trend is shown in the table "Comparison_all". For this, the coefficients of determination and the correlation coefficient are calculated.
+In the Excel file "AS-Austausch.xlsx", the mutations of each final variant created, both albumin and FLS2 variants, are shown. In addition, the trend is shown in the table "Comparison_all". For this, the coefficients of determination and the correlation coefficient are calculated.
+
+
+Those last three files are written in German.
